@@ -1,0 +1,15 @@
+nav>svg{
+    fill: aliceblue;
+}
+nav{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
+nav>h3{
+    margin-left: 1.5vw;
+    font-weight: 400;
+}
