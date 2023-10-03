@@ -21,7 +21,7 @@ export default[
         loc:"Japan",
         gmap:"https://maps.app.goo.gl/AcpioSeSnnUNo6qr7",
         date:"10-september-2023 - 15-september-2023",
-        description:"https://lp-cms-production.imgix.net/image_browser/shutterstockRF_168163925.jpg?auto=format&q=75",
+        description:"Nara Park is a public park located in the city of Nara, Japan, at the foot of Mount Wakakusa. Established in 1880, it is one of the oldest parks in Japan. Administratively, the park is under the control of Nara Prefecture.",
         img:"https://lp-cms-production.imgix.net/image_browser/shutterstockRF_168163925.jpg?auto=format&q=75"
     },
 
