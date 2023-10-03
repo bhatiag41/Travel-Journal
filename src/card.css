@@ -1,0 +1,50 @@
+.card{
+    margin: 50px 5vw;
+
+    display: flex;
+
+}
+.cardimg{
+    width: 125px;
+    height: 168px;
+    border-radius: 5%;
+    margin-right: 5vw;
+    object-fit:cover
+}
+.innerrow{
+    display: flex;
+    align-items: baseline;
+    margin-top: 19px;
+}
+.innerrow>svg{
+    margin-right: 2%;
+}
+.loc{
+    font-size: 10.24px;
+    margin-right: 4%;
+    letter-spacing: 1.741px;
+}
+.map{
+    color: gray;
+    font-size: 10.24px;
+}
+.title{
+    font-size: 25px;
+font-style: normal;
+font-weight: 700;
+padding-bottom: 7px;
+}
+.date{
+    font-size: 10.24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.description{
+    font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%;
+width: 50vw;
+margin-top: 9px;
+}
